@@ -1,18 +1,20 @@
-### Hi there 👋
+### Jeongin Lee
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/jeongin-lee-4687401b3)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/JeonginLee)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)]()
 
-[![Jeongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeongin&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+Computer Science student at NYU Abu Dhabi interested in Machine Learning and Open Source.
 
-<!--
-**jjeongin/jjeongin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📁 Current Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjeongin&repo=creative-machine&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjeongin&repo=creative-machine-website&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### 🔧 Main Toolkit
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,js,tensorflow,aws&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeongin&count_private=true&show_icons=true&theme=graywhite&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![My GitHub Streak](https://streak-stats.demolab.com/?user=jjeongin&theme=graywhite)](https://git.io/streak-stats)
