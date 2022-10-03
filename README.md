@@ -14,11 +14,11 @@ For my Google Summer of Code 2022 project with [Processing Organization](https:/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjeongin&repo=creative-machine-website&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🕸 Micro Websites
-- [Type Your Words!](https://www.typeyourwords.com/): 
-- [Chroma](https://jjeongin.github.io/Chroma/): 
-- [Benny the Fish](https://jjeongin.github.io/Benny-the-fish/): 
-- [IM PacMan](https://jjeongin.github.io/micro-projects/IM-PacMan/): 
-- [Meteorites Visualization](https://jjeongin.github.io/micro-projects/Meteor): 
+- [Type Your Words!](https://www.typeyourwords.com/)
+- [Chroma](https://jjeongin.github.io/Chroma/)
+- [Benny the Fish](https://jjeongin.github.io/Benny-the-fish/)
+- [IM PacMan](https://jjeongin.github.io/micro-projects/IM-PacMan/)
+- [Meteorites Visualization](https://jjeongin.github.io/micro-projects/Meteor)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeongin&count_private=true&show_icons=true&theme=graywhite&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
 
