@@ -1,8 +1,8 @@
 ### Jeongin Lee
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,js,tensorflow,aws&theme=light)](https://skillicons.dev)
+Computer Science student at NYU Abu Dhabi interested in Machine Learning, Web Development, Interactive Media, and Open Source. Following are the tools I mainly use:
 
-Computer Science student at NYU Abu Dhabi interested in Machine Learning, Web Development, Interactive Media, and Open Source.
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,js,tensorflow,aws&theme=light)](https://skillicons.dev)
 
 ### 📁 Current Projects
 
