@@ -8,8 +8,8 @@ For my Google Summer of Code 2022 project with [Processing Organization](https:/
 
 - [GSoC Project List: Creative Machine](https://summerofcode.withgoogle.com/programs/2022/projects/8QMnLtav)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjeongin&repo=creative-machine&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjeongin&repo=creative-machine-website&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjeongin&repo=creative-machine&theme=graywhite)](https://github.com/jjeongin/creative-machine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjeongin&repo=creative-machine-website&theme=graywhite)](https://github.com/jjeongin/creative-machine-website)
 
 ### Micro Websites
 - [Type Your Words!](https://www.typeyourwords.com/)
