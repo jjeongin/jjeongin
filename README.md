@@ -2,7 +2,7 @@
 
 Computer Science student at NYU Abu Dhabi interested in Machine Learning, Web Development, Interactive Media, and Open Source.
 
-### Current Projects
+### Recent Projects
 
 For my Google Summer of Code 2022 project with [Processing Organization](https://processing.org/), I developed a beginner-friendly Machine Learning library for Processing. Visit [our website](https://jjeongin.github.io/creative-machine/) to learn more about how to easily use ML in your Processing applications. 🤖
 
