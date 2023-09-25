@@ -22,12 +22,3 @@ For my Google Summer of Code 2022 project with [Processing Organization](https:/
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,js,tensorflow,aws&theme=light)](https://skillicons.dev)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeongin&count_private=true&show_icons=true&theme=graywhite&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![My GitHub Streak](https://streak-stats.demolab.com/?user=jjeongin&theme=graywhite)](https://git.io/streak-stats)
-
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/jeongin-lee-4687401b3)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/JeonginLee)
-[![](https://img.shields.io/badge/-email-ffe27a?style=flat-square)](mailto:jeonginlee0304@gmail.com)
-[![](https://img.shields.io/badge/-resume-000000?style=flat-square)](https://jjeongin.github.io/resume/Resume.pdf)
-
