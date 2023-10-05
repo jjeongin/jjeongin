@@ -20,5 +20,5 @@ For my Google Summer of Code 2022 project with [Processing Organization](https:/
 
 ### Main Toolkits
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,js,tensorflow,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,ts,js,java,c,cpp,aws&theme=light)](https://skillicons.dev)
 
