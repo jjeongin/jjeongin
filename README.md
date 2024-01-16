@@ -1,6 +1,6 @@
 ### [Me page =^..^=](https://jjeongin.github.io/me/)
 
-Last year Computer Science student at NYU Abu Dhabi interested in Web Development, Interactive Media, and Open Source.
+Final year Computer Science student at NYU Abu Dhabi interested in Web Development, Interactive Media, and Open Source.
 
 ### Recent projects
 
